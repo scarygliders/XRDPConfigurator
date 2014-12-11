@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>images/logos/XRDPConfiguratorLogoLarge.png</file>
+    <file>images/logos/XRDPConfiguratorLogoSmall.png</file>
+    <file>images/logos/ScaryGlidersCompactLogo.png</file>
+    <file>images/logos/xrdp24b.png</file>
+    <file>images/logos/xrdptmp.png</file>
+  </qresource>
+  <qresource prefix="modulebox">
+    <file>images/modulebox/down-arrow.png</file>
+  </qresource>
+  <qresource prefix="html">
+    <file>html/copyright.html</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>images/icons/Actions-document-preview-icon.png</file>
+    <file>images/icons/Actions-exit-icon.png</file>
+    <file>images/icons/Devices-input-keyboard-icon.png</file>
+    <file>images/icons/doc-open-icon.png</file>
+    <file>images/icons/doc-save-as-icon.png</file>
+    <file>images/icons/doc-save-icon.png</file>
+    <file>images/icons/XRDPConfiguratorWindowIcon.png</file>
+  </qresource>
+  <qresource prefix="dragpoint">
+    <file>images/dragpoints/Arrow_topleft.png</file>
+    <file>images/dragpoints/Arrow_bottomright.png</file>
+  </qresource>
+  <qresource prefix="backgrounds">
+    <file>images/backgrounds/StackedWidgetBackground.png</file>
+  </qresource>
+</RCC>

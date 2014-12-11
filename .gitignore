@@ -1,0 +1,8 @@
+user_interface/*.py
+__pycache__
+*.ini
+libxrdpconfigurator/*.so
+libxrdpconfigurator/*.o
+XRDPConfigurator_resources_rc.py
+.idea
+.idea/workspace.xml

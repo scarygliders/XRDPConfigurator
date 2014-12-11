@@ -1,0 +1,44 @@
+<RCC>
+  <qresource prefix="Logo">
+    <file>Welcome.png</file>
+    <file>ScaryGlidersCompactLogo.png</file>
+    <file>StackedWidgetBackground.png</file>
+    <file>logostylesheet.css</file>
+    <file>xrdp24b.png</file>
+    <file>xrdptmp.png</file>
+    <file>Icon.png</file>
+    <file>TickitechLogo-130x130.png</file>
+    <file>LOGO-003-318x100.png</file>
+    <file>TickitechLogo.png</file>
+    <file>LOGO-003.png</file>
+  </qresource>
+  <qresource prefix="dragpoint">
+    <file>resizeArrow1.png</file>
+    <file>resizeArrow.png</file>
+  </qresource>
+  <qresource prefix="tickilogo">
+    <file>tickitechlogolayers/BASE.png</file>
+    <file>tickitechlogolayers/LAYER1.png</file>
+    <file>tickitechlogolayers/LAYER2.png</file>
+    <file>tickitechlogolayers/LAYER3.png</file>
+    <file>tickitechlogolayers/LAYER4.png</file>
+    <file>tickitechlogolayers/LAYER5.png</file>
+    <file>tickitechlogolayers/TICKITECHLOGOTEXT.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>Devices-input-keyboard-icon.png</file>
+    <file>Actions-document-preview-icon.png</file>
+    <file>Actions-exit-icon.png</file>
+    <file>doc-save-as-icon.png</file>
+    <file>doc-save-icon.png</file>
+    <file>doc-open-icon.png</file>
+  </qresource>
+  <qresource prefix="html">
+    <file>logostylesheet.css</file>
+    <file>logo.html</file>
+    <file>copyright.html</file>
+  </qresource>
+  <qresource prefix="modulebox">
+    <file>down-arrow.png</file>
+  </qresource>
+</RCC>
