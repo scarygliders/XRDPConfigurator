@@ -42,11 +42,11 @@ XRDPConfigurator was written on a Linux system. If you can satisfy the following
 How to run XRDPConfigurator
 ----------
 
-A smoother installation method is being worked on. Here's a rough guide for now..
+A smoother installation method is being worked on. Here's a rough guide for now (after installing the system requirements listed above)...
 
  1. **`git clone https://github.com/scarygliders/XRDPConfigurator.git`**
- 2. **`cd xrdpconfigurator`**
- 3. Run the **`Setup.sh`** script - this will build the user interface files and the libxrdpconfigurator.so helper library.
+ 2. **`cd XRDPConfigurator`**
+ 3. Run the **`./Setup.sh`** script - this will build the user interface files and the `libxrdpconfigurator.so` helper library.
  4. Run XRDPConfigurator using **`./XRDPConfigurator.sh`**
 
 Usage
